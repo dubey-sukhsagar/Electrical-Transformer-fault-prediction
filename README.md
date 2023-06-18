@@ -1,4 +1,4 @@
-# MLSP-Final-Peoject-
+# Electrical Transformer fault prediction-
 Thermal, electrical stress ,Decomposition of insulating material and incipient faults leads to generation of various type
 of gases (H2, CH4, C2H6, CO2 etc) inside oil filled transformers. These abnormal operating condition are hard to
 detect by normal mechanism.
