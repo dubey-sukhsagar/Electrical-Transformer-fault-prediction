@@ -1,8 +1,6 @@
 # MLSP-Final-Peoject-
-Thermal, electrical stress ,Decomposition of insulating ma-
-terial and incipient faults leads to generation of various type
-of gases (H2, CH4, C2H6, CO2 etc) inside oil filled trans-
-formers. These abnormal operating condition are hard to
+Thermal, electrical stress ,Decomposition of insulating material and incipient faults leads to generation of various type
+of gases (H2, CH4, C2H6, CO2 etc) inside oil filled transformers. These abnormal operating condition are hard to
 detect by normal mechanism.
 So task is to classify the faults based on the Dissolve gas
 concentration. I took 200 data points attached with paper
